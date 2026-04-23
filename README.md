@@ -34,15 +34,15 @@ By completing this project, you will demonstrate:
 
 ### 📊 Data Processing Techniques Implemented
 
-| Technique | Purpose | Status |
-|-----------|---------|--------|
-| **Data Loading** | CSV, JSON, SQL, and API Integration | 📦 |
-| **EDA** | Univariate, Bivariate, Multivariate Analysis | 📈 |
-| **Missing Data Handling** | Simple, KNN, MICE, Complete Case Analysis | 🔄 |
-| **Outlier Detection** | Z-score, IQR, Percentile, Winsorization | 🎯 |
-| **Encoding** | Label, One-Hot, Ordinal, Binning | 🏷️ |
-| **Feature Scaling** | StandardScaler, MinMaxScaler, RobustScaler | ⚖️ |
-| **Feature Engineering** | Interaction Features, Transformations, Binning | ⚙️ |
+| Technique | Purpose |
+|-----------|---------|
+| **Data Loading** | CSV, JSON, SQL, and API Integration |
+| **EDA** | Univariate, Bivariate, Multivariate Analysis |
+| **Missing Data Handling** | Simple, KNN, MICE, Complete Case Analysis |
+| **Outlier Detection** | Z-score, IQR, Percentile, Winsorization |
+| **Encoding** | Label, One-Hot, Ordinal, Binning |
+| **Feature Scaling** | StandardScaler, MinMaxScaler, RobustScaler |
+| **Feature Engineering** | Interaction Features, Transformations, Binning |
 
 ---
 
@@ -79,17 +79,16 @@ By completing this project, you will demonstrate:
 
 ```
 📦 Data_reprocessing_and_Feature_Engineering_Practical-Exam/
+├── 📂 data/
+│   ├── 📄 customers.csv                  # Customer demographics
+│   ├── 📄 transactions.json              # Transaction records
+│   ├── 📄 products.sql                   # Product information
 ├── 📄 README.md                          # Project documentation
 ├── 📄 LICENSE                            # MIT License
 ├── 📄 requirements.txt                   # Python dependencies
 ├── 📔 DataPreprocessing.ipynb            # Main analysis notebook
 ├── 📄 processed_customer_data.csv    # Final output (generated)
-├── 📊 pandas_profiling_report.html       # Automated EDA report
-├── 📂 data/
-│   ├── 📄 customers.csv                  # Customer demographics
-│   ├── 📄 transactions.json              # Transaction records
-│   ├── 📄 products.sql                   # Product information
-└── 📊 Summary_Report.md                  # Project summary
+└── 📊 pandas_profiling_report.html       # Automated EDA report
 ```
 
 ---
