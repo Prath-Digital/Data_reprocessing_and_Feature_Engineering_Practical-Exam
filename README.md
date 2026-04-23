@@ -226,7 +226,6 @@ This project includes the following deliverables:
 |---|---|
 | 📔 **DataPreprocessing.ipynb** | Complete preprocessing pipeline with explanations |
 | 📄 **processed_customer_data.csv** | Final cleaned & feature-engineered dataset |
-| 📋 **Summary_Report.md** | Techniques used, findings, and recommendations |
 | 📊 **pandas_profiling_report.html** | Automated exploratory analysis report |
 | 📚 **README.md** | This documentation file |
 | 📜 **LICENSE** | MIT License |
@@ -299,10 +298,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍🎓 Author
 
-**Student Name**: Prath Udhnawala
-**Institution**: Red & White Multimedia Institute
-**Exam**: Practical Examination - Data Preprocessing & Feature Engineering | Set A
-**Date Submitted**: 23rd April 2024
+- **Student Name**: Prath Udhnawala
+- **Institution**: Red & White Multimedia Institute
+- **Exam**: Practical Examination - Data Preprocessing & Feature Engineering | Set A
+- **Date Submitted**: 23rd April 2024
 
 ---
 
